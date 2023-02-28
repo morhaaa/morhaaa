@@ -1,5 +1,5 @@
 <img alt="coding" height="100" width="1000" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
-<h1 align="center">Hi 👋, I'm <a href="https://www.mohamedrhanmi.com/">Mohamed Rhanmi</a> a Front-end Dev based in Italy!</h1>
+<h1 align="left">Hi 👋, I'm <a href="https://www.mohamedrhanmi.com/">Mohamed Rhanmi</a> a Front-end Dev based in Italy!</h1>
 
 <div align="left">
   <h2>👨🏻‍💻 About Me:</h2>
