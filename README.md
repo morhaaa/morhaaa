@@ -3,7 +3,7 @@
 
 <div align="left">
   <h2>👨🏻‍💻 About Me:</h2>
-I am a highly skilled junior front-end developer with a solid foundation in HTML, CSS, and JavaScript. Experienced in developing responsive websites and web applications using modern front-end frameworks such as React and NextJS. Passionate about learning new technologies and eager to apply knowledge to real-world projects. Looking to leverage my skills and experience to contribute to a dynamic and innovative development team.
+I am a highly skilled front-end developer with a solid foundation in HTML, CSS, and JavaScript. Experienced in developing responsive websites and web applications using modern front-end frameworks such as React and NextJS. Passionate about learning new technologies and eager to apply knowledge to real-world projects. Looking to leverage my skills and experience to contribute to a dynamic and innovative development team.
 
 
 
