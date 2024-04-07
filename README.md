@@ -1,10 +1,11 @@
-<img alt="coding" height="100" width="1000" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
-<h1 align="left">Hi 👋, I'm <a href="https://www.mohamedrhanmi.com/">Mohamed Rhanmi</a> a Front-end Dev based in Italy!</h1>
+<h1 align="left">Hi 👋, I'm <a href="https://www.mohamedrhanmi.com/">Mohamed Rhanmi</a> a Front-end Dev based in Switzerland!</h1>
 
 <div align="left">
   <h2>👨🏻‍💻 About Me:</h2>
-I am a highly skilled front-end developer with a solid foundation in HTML, CSS, and JavaScript. Experienced in developing responsive websites and web applications using modern front-end frameworks such as React and NextJS. Passionate about learning new technologies and eager to apply knowledge to real-world projects. Looking to leverage my skills and experience to contribute to a dynamic and innovative development team.
+I am a highly skilled front-end developer, experienced in developing responsive websites and web applications using modern front-end.
+My core stack is React, Next.js, Node.js, and TypeScript. I am also familiar with MongoDB and Prisma. I am always looking to learn new technologies.
 
+I am focused on creating solutions that meet user needs. Through a combination of creativity and technical expertise, I am committed to delivering high-quality digital products. To discover more about my work, take a look at the projects I have completed so far.
 
 
 <h2> 💻 Tech Stack:</h2>
