@@ -3,7 +3,7 @@
 <div align="left">
   <h2>👨🏻‍💻 About Me:</h2>
 I am a highly skilled front-end developer, experienced in developing responsive websites and web applications using modern front-end frameworks. 
-My core stack is React, Next.js, Node.js, and TypeScript. I am also familiar with MongoDB and Prisma. I am always looking to learn new technologies.
+My core stack is React, Next.js, Node.js, and TypeScript. I am always looking to learn new technologies.
 
 I am focused on creating solutions that meet user needs. Through a combination of creativity and technical expertise, I am committed to delivering high-quality digital products. To discover more about my work, take a look at the projects I have completed so far.
 
